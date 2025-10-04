@@ -1,0 +1,13 @@
+{
+  "chat": {
+    "parameters": ["sender", "content"],
+    "translation_key": "chat.type.emote",
+    "style": {
+      "color": "gray"
+    }
+  },
+  "narration": {
+    "parameters": ["sender", "content"],
+    "translation_key": "chat.type.emote"
+  }
+}
